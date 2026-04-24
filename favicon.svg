@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Plakat-Pablo GmbH</title>
+  <rect width="128" height="128" rx="28" fill="#111111"/>
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#A6FF00" stroke-width="8"/>
+  <path d="M39 83V44h19.5c12 0 19.5 6.7 19.5 18.5S70.5 81 58.5 81H49v2zm10-12h9c6.2 0 10-3 10-8.4 0-5.6-3.8-8.6-10-8.6h-9z" fill="#F3F3F0"/>
+</svg>
